@@ -159,7 +159,6 @@ form{
     width: 40vw;
     border: solid 2px;
     border-image: linear-gradient(var(--light-purple), var(--dark-purple)) 1;
-    border-radius: var(--form);
     background: none;
     display: flex;
     flex-direction: column;
