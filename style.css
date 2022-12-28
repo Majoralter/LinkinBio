@@ -39,7 +39,7 @@ body{
 background-image: linear-gradient(var(--dark-purple), var(--black));
 background-repeat: no-repeat;
 background-size: cover;
-padding: 50px 199px;
+padding: 20px 199px;
 }
 
 body,html{
@@ -133,7 +133,7 @@ main{
     flex-direction: column;
     justify-content: space-between;
     height: fit-content;
-    margin-top: 90px;
+    margin-top: 50px;
     gap: 20px;
 }
 
