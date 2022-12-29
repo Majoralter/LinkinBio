@@ -64,6 +64,8 @@ body,html{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    position: fixed;
+    width: 80vw;
 }
 
 #logo{
@@ -72,6 +74,11 @@ body,html{
     font-weight: bold;
     cursor: pointer;
     text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: var(--white);
 }
 
 a>button,button{

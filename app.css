@@ -6,4 +6,7 @@
 
 body{
     background-image: linear-gradient(#0F0022,#000000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
